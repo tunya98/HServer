@@ -39,3 +39,4 @@ unzip -q -d ${HOME}/mc/ ${HOME}/mc/mc.zip
 rm ${HOME}/mc/mc.zip
 chmod +x ${HOME}/mc/bedrock_server
 sh ${HOME}/mc/bedrock_server
+fi
