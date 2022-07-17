@@ -19,7 +19,6 @@ cd mc && nano server.properties
 ;;
 esac
 fi
-;;
 esac
 else
 OPTION=$(whiptail --title "server version" --menu "请选择你要安装的服务器版本" 15 60 4 \
