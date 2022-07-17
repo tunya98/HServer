@@ -18,6 +18,7 @@ LD_PRELOAD= ./bedrock_server
 cd mc && nano server.properties
 ;;
 esac
+fi
 ;;
 esac
 else
